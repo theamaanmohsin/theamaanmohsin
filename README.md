@@ -22,7 +22,7 @@ I'm a Data Science student at the **Institute of Data Sciences, UET Lahore**, bu
 
 - 🏗️ **Currently building:** [MirasPro](https://github.com/theamaanmohsin/MIRAS-PRO-Digital-Inheritance-and-Estate-Dispute-Tracker-) — a Sharia-compliant digital inheritance & estate management system (Blazor Server, EF Core, SQL Server)
 - 📚 **Currently sharpening:** Data Structures & Algorithms in Python, Database Management, Digital Logic Design
-- 🔭 **Earlier projects:** [Gearify](https://github.com/theamaanmohsin/-GEARIFY-An-Automotive-Performance-Management-System) (Flask automotive workshop management system), EstateRegistry (ASP.NET Core MVC, ADO.NET), and a hardware-only DLD Secure Lock System (pure FSM, no microcontroller)
+- 🔭 **Earlier projects:** [Gearify](https://github.com/theamaanmohsin/-GEARIFY-An-Automotive-Performance-Management-System) (Automotive Performance and Miantenance System), and a hardware-only DLD Secure Lock System (using micro-controller and programming logic)
 - 🤝 **Open to collaborating on:** beginner-to-intermediate web dev, application development, and portfolio-worthy academic projects
 - 💬 **Ask me about:** C#, .NET, SQL Server, Blazor, HTML/CSS, or my journey from hardware FSMs to full-stack apps
 
