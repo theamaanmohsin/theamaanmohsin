@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/theamaanmohsin">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Amaan%20Mohsin&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Science%20Student%20%7C%20.NET%20%26%20Web%20Developer&descAlignY=58&descSize=18" alt="Amaan Mohsin" />
+    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=e3b341&fontSize=48&height=100&width=954&text=Hello%2C%20I'm%20Amaan%20Mohsin" alt="Hello, I'm Amaan Mohsin" />
   </a>
 </p>
 
@@ -20,24 +20,29 @@
 
 I'm a Data Science student at the **Institute of Data Sciences, UET Lahore**, building real software rather than just studying theory. My main focus right now is **C#/.NET web development**, backed by a growing foundation in data structures, algorithms, and databases from coursework.
 
-- 🏗️ **Currently building:** [MirasPro](https://github.com/theamaanmohsin) — a Sharia-compliant digital inheritance & estate management system (Blazor Server, EF Core, SQL Server)
+- 🏗️ **Currently building:** [MirasPro](https://github.com/theamaanmohsin/MIRAS-PRO-Digital-Inheritance-and-Estate-Dispute-Tracker-) — a Sharia-compliant digital inheritance & estate management system (Blazor Server, EF Core, SQL Server)
 - 📚 **Currently sharpening:** Data Structures & Algorithms in Python, Database Management, Digital Logic Design
-- 🔭 **Earlier projects:** EstateRegistry (ASP.NET Core MVC, ADO.NET) and a hardware-only DLD Secure Lock System (pure FSM, no microcontroller)
+- 🔭 **Earlier projects:** [Gearify](https://github.com/theamaanmohsin/-GEARIFY-An-Automotive-Performance-Management-System) (Flask automotive workshop management system), EstateRegistry (ASP.NET Core MVC, ADO.NET), and a hardware-only DLD Secure Lock System (pure FSM, no microcontroller)
 - 🤝 **Open to collaborating on:** beginner-to-intermediate web dev, application development, and portfolio-worthy academic projects
 - 💬 **Ask me about:** C#, .NET, SQL Server, Blazor, HTML/CSS, or my journey from hardware FSMs to full-stack apps
 
 ---
 
-### 🧩 Featured Project
+### 🧩 Featured Projects
 
 <p align="left">
-  <a href="https://github.com/theamaanmohsin">
-    <img align="left" width="50%" src="https://github-readme-stats-five-sigma-99.vercel.app/api/pin/?username=theamaanmohsin&repo=MirasPro&theme=tokyonight&bg_color=00000000&title_color=e3b341&text_color=9ba0a6&icon_color=e3b341&hide_border=true" />
+  <a href="https://github.com/theamaanmohsin/MIRAS-PRO-Digital-Inheritance-and-Estate-Dispute-Tracker-">
+    <img align="left" width="49%" src="https://github-readme-stats-five-sigma-99.vercel.app/api/pin/?username=theamaanmohsin&repo=MIRAS-PRO-Digital-Inheritance-and-Estate-Dispute-Tracker-&theme=tokyonight&bg_color=00000000&title_color=e3b341&text_color=9ba0a6&icon_color=e3b341&hide_border=true" />
+  </a>
+  <a href="https://github.com/theamaanmohsin/-GEARIFY-An-Automotive-Performance-Management-System">
+    <img align="left" width="49%" src="https://github-readme-stats-five-sigma-99.vercel.app/api/pin/?username=theamaanmohsin&repo=-GEARIFY-An-Automotive-Performance-Management-System&theme=tokyonight&bg_color=00000000&title_color=e3b341&text_color=9ba0a6&icon_color=e3b341&hide_border=true" />
   </a>
 </p>
 <br clear="left"/>
 
 **MirasPro** is an Islamic inheritance and estate management system built for a Pakistani legal context. It includes a full admin subsystem (case queue, case review, admin provisioning) with authentication built on `ProtectedSessionStorage`, and a CSS system rewritten from scratch for WCAG-compliant contrast and consistent theming.
+
+**Gearify** is a role-based automotive workshop management system (Flask, Python) that replaces paper service records with digital tracking — automatic cost calculation, predictive maintenance scheduling, and printable digital receipts for mechanics, managers, and customers.
 
 ---
 
@@ -82,18 +87,26 @@ I'm a Data Science student at the **Institute of Data Sciences, UET Lahore**, bu
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=theamaanmohsin&show_icons=true&theme=tokyonight&title_color=e3b341&icon_color=e3b341&text_color=9ba0a6&hide_border=true&bg_color=00000000&count_private=true" />
-  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=theamaanmohsin&layout=compact&theme=tokyonight&title_color=e3b341&icon_color=e3b341&text_color=9ba0a6&hide_border=true&bg_color=00000000&langs_count=8" />
+  <img height="180" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=theamaanmohsin&show_icons=true&theme=tokyonight&title_color=e3b341&icon_color=e3b341&text_color=9ba0a6&hide_border=true&bg_color=00000000&count_private=true&rank_icon=github&custom_title=Amaan's%20GitHub%20Stats" />
+  <img height="180" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=theamaanmohsin&layout=compact&theme=tokyonight&title_color=e3b341&icon_color=e3b341&text_color=9ba0a6&hide_border=true&bg_color=00000000&langs_count=8" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=theamaanmohsin&theme=tokyonight&hide_border=true&background=00000000&ring=e3b341&fire=e3b341&currStreakLabel=e3b341" alt="streak stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=theamaanmohsin&theme=tokyonight&hide_border=true&background=00000000&ring=e3b341&fire=e3b341&currStreakLabel=e3b341&sideLabels=9ba0a6&currStreakNum=ffffff&sideNums=9ba0a6&dates=9ba0a6" alt="streak stats" />
 </p>
 
-### 📈 Contribution Graph
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=theamaanmohsin&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6&margin-w=8&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" alt="trophies" />
+</p>
+
+### 📈 Contribution Activity
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=theamaanmohsin&bg_color=00000000&color=e3b341&line=e3b341&point=c9d1d9&area=true&hide_border=true" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=theamaanmohsin&bg_color=00000000&color=e3b341&line=e3b341&point=ffffff&area=true&area_color=e3b341&hide_border=true&custom_title=Contribution%20Graph" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=theamaanmohsin&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=e3b341&icon_color=e3b341&text_color=9ba0a6" alt="extra stats" />
 </p>
 
 ---
