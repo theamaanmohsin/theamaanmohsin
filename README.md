@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=E3B341&center=true&vCenter=true&width=700&lines=Building+MirasPro+%E2%80%94+Sharia-compliant+inheritance+system;C%23+%C2%B7+.NET+%C2%B7+SQL+Server+%C2%B7+Blazor+Server;Data+Structures+%2B+Algorithms+in+Python;Always+shipping+something+new" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=E3B341&center=true&vCenter=true&width=900&lines=Building+MirasPro+%E2%80%94+Sharia-compliant+inheritance+system;C%23+%C2%B7+.NET+%C2%B7+SQL+Server+%C2%B7+Blazor+Server;Always+shipping+something+new" alt="Typing SVG" />
 </p>
 
 <p align="center">
