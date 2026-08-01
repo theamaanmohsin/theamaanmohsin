@@ -95,9 +95,6 @@ I'm a Data Science student at the **Institute of Data Sciences, UET Lahore**, bu
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=theamaanmohsin&theme=tokyonight&hide_border=true&background=00000000&ring=e3b341&fire=e3b341&currStreakLabel=e3b341&sideLabels=9ba0a6&currStreakNum=ffffff&sideNums=9ba0a6&dates=9ba0a6" alt="streak stats" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=theamaanmohsin&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6&margin-w=8&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" alt="trophies" />
-</p>
 
 ### 📈 Contribution Activity
 
