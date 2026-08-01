@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=E3B341&center=true&vCenter=true&width=900&lines=Always+building%2C+always+leveling+up+my+skills;C%23+%C2%B7+.NET+%C2%B7+SQL+Server+%C2%B7+Blazor+Server;Always+shipping+something+new" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=E3B341&center=true&vCenter=true&width=900&lines=Always+building%2C+always+leveling+up+my+skills;I+speak+Python+fluently+%E2%80%94+data+is+my+second+language;Always+shipping+something+new" alt="Typing SVG" />
 </p>
 
 <p align="center">
