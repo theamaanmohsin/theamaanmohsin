@@ -22,7 +22,7 @@ I'm a Data Science student at the **Institute of Data Sciences, UET Lahore**, bu
 
 - 🏗️ **Currently building:** [MirasPro](https://github.com/theamaanmohsin/MIRAS-PRO-Digital-Inheritance-and-Estate-Dispute-Tracker-) — a Sharia-compliant digital inheritance & estate management system (Blazor Server, EF Core, SQL Server)
 - 📚 **Currently sharpening:** Data Structures & Algorithms in Python, Database Management, Digital Logic Design
-- 🔭 **Earlier projects:** [Gearify](https://github.com/theamaanmohsin/-GEARIFY-An-Automotive-Performance-Management-System) (Automotive Performance and Miantenance System), and a hardware-only DLD Secure Lock System (using micro-controller and programming logic)
+- 🔭 **Earlier projects:** [Gearify](https://github.com/theamaanmohsin/-GEARIFY-An-Automotive-Performance-Management-System) (Flask automotive workshop management system), EstateRegistry (ASP.NET Core MVC, ADO.NET), and a hardware-only DLD Secure Lock System (pure FSM, no microcontroller)
 - 🤝 **Open to collaborating on:** beginner-to-intermediate web dev, application development, and portfolio-worthy academic projects
 - 💬 **Ask me about:** C#, .NET, SQL Server, Blazor, HTML/CSS, or my journey from hardware FSMs to full-stack apps
 
@@ -87,8 +87,8 @@ I'm a Data Science student at the **Institute of Data Sciences, UET Lahore**, bu
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=theamaanmohsin&show_icons=true&theme=tokyonight&title_color=e3b341&icon_color=e3b341&text_color=9ba0a6&hide_border=true&bg_color=00000000&count_private=true&rank_icon=github&custom_title=Amaan's%20GitHub%20Stats" />
-  <img height="180" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=theamaanmohsin&layout=compact&theme=tokyonight&title_color=e3b341&icon_color=e3b341&text_color=9ba0a6&hide_border=true&bg_color=00000000&langs_count=8" />
+  <img height="180" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=theamaanmohsin&show_icons=true&theme=tokyonight&title_color=e3b341&icon_color=e3b341&text_color=9ba0a6&hide_border=true&bg_color=00000000&count_private=true&rank_icon=github&custom_title=Amaan's%20GitHub%20Stats&cache_seconds=0" />
+  <img height="180" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=theamaanmohsin&layout=compact&theme=tokyonight&title_color=e3b341&icon_color=e3b341&text_color=9ba0a6&hide_border=true&bg_color=00000000&langs_count=8&cache_seconds=0" />
 </p>
 
 <p align="center">
@@ -103,7 +103,7 @@ I'm a Data Science student at the **Institute of Data Sciences, UET Lahore**, bu
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=theamaanmohsin&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=e3b341&icon_color=e3b341&text_color=9ba0a6" alt="extra stats" />
+  <img src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=theamaanmohsin&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=e3b341&icon_color=e3b341&text_color=9ba0a6&cache_seconds=0" alt="extra stats" />
 </p>
 
 ---
